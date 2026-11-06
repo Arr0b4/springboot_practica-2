@@ -1,1 +1,1 @@
-La practica completa de Hibernate y Spring para repasar la estrutura
+La practica completa de Hibernate y Spring para repasar la estructura
